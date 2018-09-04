@@ -15,7 +15,7 @@ const (
 	height    = "-h"
 	output    = "-o"
 	filetype  = ".jpg"
-	timestamp = "2006-01-02_15:04:05"
+	timestamp = "2006-01-02_15:04:05.000"
 
 	defaultTimeout = 1
 )
